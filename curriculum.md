@@ -46,7 +46,7 @@ Day 2 -
 - Conceptualising missing data/perspectives
 - Deciding on projects
 
-1.3 - Composition
+Day 3 - Composition
 - Polymer, web components, widgets
 - JavaScript
 - Prototyping
@@ -66,6 +66,7 @@ Day 5 - Refining
 Day 1 - Dealing with Sources
 - APIs, data formats, JSON
 - JavaScript, JQuery
+
 Day 2 - Transformations
 - Data manipulation, data structures
 - Refactoring
@@ -75,40 +76,42 @@ Day 3 -
 - speaker: ...
 
 Day 4 - Presenting
-- students present data sets 
+- Students present data sets 
 
 Day 5 - DH Benelux
-- live presentation of pilot at DH Benelux
+- Live presentation of pilot at DH Benelux
 
 ### Week 3
 
 Day 1 - Exploring through Visualisations
+- Visuallisation (JW Tulp?)
 - d3
+- Exploring data
 
-Day 2 - 
-- ...
+Day 2 - Telling stories with data
+- Presenting data through visualisations
 
 Day 3 - 
 - speaker: ...
 - ...
 
 Day 4 - Presenting
-- students present projects
+- Students present projects
 
 Day 5 - 
 - ...
 
 ### Week 4
 
-Day 1 - Refining
+Day 1 - Building and refining
 
-Day 2 - Refining
+Day 2 - Building and refining
 
-Day 3 - Refining
+Day 3 - Building and refining
 
 Day 4 - Presentations
-- Students present projects (need a cool location)
-- Drinks and Pizza
+- Students present projects (need a cool location: Eye museum, Royal Palace, top of Okura)
+- Drinks and Pizza (or champagne, oysters and caviar if in fancy location)
 
 Day 5 - 
 - Sleep
