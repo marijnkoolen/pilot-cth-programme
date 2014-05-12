@@ -79,7 +79,7 @@ Day 4 - Presenting
 - Students present data sets 
 
 Day 5 - DH Benelux
-- Live presentation of pilot at DH Benelux
+- Live streaming presentation of pilot at DH Benelux in The Hague
 
 ### Week 3
 
