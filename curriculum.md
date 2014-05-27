@@ -18,10 +18,9 @@ Wednesday:
 - speaker of the week
 
 Thursday:
-- coding
-- preparing presentations
 - presentations
 - plenary discussion
+- coding
 
 Friday:
 - coding
