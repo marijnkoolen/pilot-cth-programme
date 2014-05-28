@@ -3,27 +3,32 @@
 ## Format
 
 Monday:
-- lecture/workshop
 - online tutorials
-- coding
+- pair programming
+- lecture
+- decide on challenge
 
 Tuesday:
-- sketching
+- online tutorials
 - group discussions
-- coding
-- lecture/workshop
+- pair programming
+- present sketch
+- lecture
 
 Wednesday:
-- coding
+- online tutorials
+- pair programming
 - speaker of the week
 
 Thursday:
-- presentations
-- plenary discussion
-- coding
+- online tutorials
+- pair programming
 
 Friday:
-- coding
+- presentations
+- plenary discussion
+- online tutorials
+- pair programming
 
 ## Content Schedule
 
@@ -33,21 +38,21 @@ Day 1 - Coding and Humanities
 - welcome, goals, format, expectations
 - Presentation of open government data
 - Presentation of Weyeser, Tulp Interactive
-- Collaboration, projects and pair programming
-- Platform, Git
-- Documents, objects and data
-- HTML, DOM, CSS
+- Lecture: Collaboration, projects and pair programming
+- Tutorial: Git
+- Lecture: Documents, objects and data
+- Tutorial: HTML, CSS
 
 Day 2 - 
-- Testing
-- Searching for solutions, Stack overflow
+- Lecture: Testing
+- Lecture: Searching for solutions, Stack overflow
 - Exploring open government data
 - Conceptualising missing data/perspectives
 - Deciding on projects
 
 Day 3 - Composition
 - Polymer, web components, widgets
-- JavaScript
+- Tutorial: JavaScript
 - Prototyping
 - Data types
 - speaker: ...
