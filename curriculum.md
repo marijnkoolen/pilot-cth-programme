@@ -2,87 +2,108 @@
 
 ## Format
 
+### Weekly schedule
+
 Monday:
-- online tutorials
-- pair programming
-- lecture
-- decide on challenge
+- AM: online tutorials
+- AM: lecture
+- PM: pair programming
+- PM: lecture
+- PM: decide on challenge
 
 Tuesday:
-- online tutorials
-- group discussions
-- pair programming
-- present sketch
-- lecture
+- AM: online tutorials
+- AM: lecture
+- PM: pair programming
+- PM: lecture
+- PM: groups present week plans
 
 Wednesday:
-- online tutorials
-- pair programming
-- speaker of the week
+- AM: online tutorials
+- AM: lecture
+- PM: pair programming
+- PM: lecture
+- PM: decide on challenge
+- PM: speaker of the week
 
 Thursday:
-- online tutorials
-- pair programming
+- AM: online tutorials
+- AM: lecture
+- PM: pair programming
+- PM: lecture
 
 Friday:
-- presentations
-- plenary discussion
-- online tutorials
-- pair programming
+- AM: groups present results
+- AM: plenary discussion
+- AM: online tutorials
+- PM: pair programming
+- PM: lecture
+
+### Group projects
+
+During the four weeks we work on a number of collaborative projects.
+
++ Groups of max 5 people
++ Group divides tasks for individuals or pairs to work on
++ Each week groups present prototype widgets
 
 ## Content Schedule
 
 ### Week 1
 
 Day 1 - Coding and Humanities
-- welcome, goals, format, expectations
+- Welcome, goals, format, expectations
 - Presentation of open government data
 - Presentation of Weyeser, Tulp Interactive
-- Lecture: Collaboration, projects and pair programming
 - Tutorial: Git
-- Lecture: Documents, objects and data
 - Tutorial: HTML, CSS
-
-Day 2 - 
-- Lecture: Testing
-- Lecture: Searching for solutions, Stack overflow
 - Exploring open government data
 - Conceptualising missing data/perspectives
+
+Day 2 - Fundamentals
+- Lecture: Documents, objects and data
+- Lecture: Collaboration, projects and pair programming
+- Tutorial: jQuery
 - Deciding on projects
+- Presenting project proposals
 
-Day 3 - Composition
-- Polymer, web components, widgets
+Day 3 - Lost & Found
 - Tutorial: JavaScript
-- Prototyping
-- Data types
-- speaker: ...
+- Lecture: Testing
+- Lecture: Searching for solutions, Stack overflow
+- Speaker: ...
 
-Day 4 - Presenting
-- students present sketches, prototypes
-- time scheduling
-- programming
+Day 4 - Composition
+- Lecture: Prototyping
+- Lecture: Polymer, web components, widgets
 
-Day 5 - Refining
+Day 5 - Presentation
+- students present results, prototypes
+- Lecture: Refactoring
+- Cleaning up codeData types
 - 
 
 ### Week 2
 
 Day 1 - Dealing with Sources
-- APIs, data formats, JSON
-- JavaScript, JQuery
+- Tutorial: APIs
+- Lecture: REST and APIs, 
+- Lecture: data formats, JSON
 
 Day 2 - Transformations
-- Data manipulation, data structures
-- Refactoring
+- Presenting weekly plans
+- 
+- Lecture: Data manipulation, data structures
+- Lecture: functions and scope
 
-Day 3 - 
-- Storing data, Firebase
+Day 3 - Storing and updataing
+- Lecture: Storing data
+- Tutorial: Firebase API
 - speaker: ...
 
-Day 4 - Presenting
-- Students present data sets 
+Day 4 - Scope
 
-Day 5 - DH Benelux
+Day 5 - Presenting at DH Benelux
 - Live streaming presentation of pilot at DH Benelux in The Hague
 
 ### Week 3

@@ -8,6 +8,9 @@
 + [jQuery on Code School](https://www.codeschool.com/courses/try-jquery)
 + [Angular.js on Code School](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 + [Web Projects on Code Academy](http://www.codecademy.com/tracks/projects)
++ [Handlebars](http://blog.teamtreehouse.com/getting-started-with-handlebars-js)
++ [Handlebars tutorial](http://jaskokoyn.com/handlebars-js-tutorial-series/)
++ [Handlebars tutorial](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/)
 
 ## Week 2
 
