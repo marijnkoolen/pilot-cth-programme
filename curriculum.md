@@ -49,7 +49,7 @@ During the four weeks we work on a number of collaborative projects.
 
 ## Content Schedule
 
-### Week 1
+### Week 1 - Elements
 
 Day 1 - Coding and Humanities
 - Welcome, goals, format, expectations
@@ -57,15 +57,15 @@ Day 1 - Coding and Humanities
 - Presentation of Weyeser, Tulp Interactive
 - Tutorial: Git
 - Tutorial: HTML, CSS
-- Exploring open government data
-- Conceptualising missing data/perspectives
+- Group: Exploring open government data
+- Group: Conceptualising missing data/perspectives
 
 Day 2 - Fundamentals
 - Lecture: Documents, objects and data
 - Lecture: Collaboration, projects and pair programming
 - Tutorial: jQuery
-- Deciding on projects
-- Presenting project proposals
+- Group: Deciding on projects
+- Group: presenting project proposals
 
 Day 3 - Lost & Found
 - Tutorial: JavaScript
@@ -78,12 +78,12 @@ Day 4 - Composition
 - Lecture: Polymer, web components, widgets
 
 Day 5 - Presentation
-- students present results, prototypes
+- Group: present results, prototypes
 - Lecture: Refactoring
-- Cleaning up codeData types
-- 
+- Cleaning up code
+ 
 
-### Week 2
+### Week 2 - Transformations
 
 Day 1 - Dealing with Sources
 - Tutorial: APIs
@@ -91,8 +91,8 @@ Day 1 - Dealing with Sources
 - Lecture: data formats, JSON
 
 Day 2 - Transformations
-- Presenting weekly plans
-- 
+- Group: presenting weekly plans
+- Tutorial: ...
 - Lecture: Data manipulation, data structures
 - Lecture: functions and scope
 
@@ -106,12 +106,13 @@ Day 4 - Scope
 Day 5 - Presenting at DH Benelux
 - Live streaming presentation of pilot at DH Benelux in The Hague
 
-### Week 3
+### Week 3 - Visualisation
 
 Day 1 - Exploring through Visualisations
-- Visuallisation (JW Tulp?)
-- d3
-- Exploring data
+- Tutorial: d3
+- Lecture: Visuallisation (JW Tulp?)
+- Lecture: d3
+- Group: Exploring data
 
 Day 2 - Telling stories with data
 - Presenting data through visualisations
@@ -120,13 +121,13 @@ Day 3 -
 - speaker: ...
 - ...
 
-Day 4 - Presenting
-- Students present projects
-
-Day 5 - 
+Day 4 - ...
 - ...
 
-### Week 4
+Day 5 - Presenting
+- Group: present results
+
+### Week 4 - Finalising
 
 Day 1 - Building and refining
 
