@@ -26,17 +26,17 @@ Wednesday:
 - PM: speaker of the week
 
 Thursday:
-- AM: groups present results
+- AM: groups present challenge results
 - AM: plenary discussion
 - AM: online tutorials
 - PM: pair programming
 - PM: lecture
-- PM: decide on challenge
+- PM: groups decide on next challenge
 
 Friday:
 - Daily schedule
 
-### Group projects
+### Group challenge projects
 
 During the four weeks we work on a number of collaborative projects/challenges.
 
@@ -44,12 +44,12 @@ During the four weeks we work on a number of collaborative projects/challenges.
 + From week 2, projects in groups of max 5 people
   + Weekly challenges to implement a prototype widget
   + Group divides tasks for individuals or pairs to work on
+  + What is the humanities component of the challenge?
+  + What are the technological hurdles to overcome?
 + Each week groups present:
   + Weekly plan on Monday morning
   + Weekly challenge results on Thursday
 + We finish the weekly challenges and start the next challenge on Thursday with a plenary discussion
-  + What technological hurdles were overcome, which remain?
-  + What is the humanities component of the challenge?
 
 
 ## Content Schedule
