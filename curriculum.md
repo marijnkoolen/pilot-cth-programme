@@ -2,26 +2,27 @@
 
 ## Format
 
+### Daily schedule
+
+- AM: stand up
+- AM: online tutorials
+- AM: pair programming assignment
+- AM: lecture
+- PM: online tutorials
+- PM: pair programming assignment
+- PM: lecture
+
 ### Weekly schedule
 
 Monday:
-- AM: online tutorials
-- AM: lecture
-- PM: pair programming
-- PM: lecture
-- PM: groups present week plans
+- AM: groups present week plans
+- Daily schedule
 
 Tuesday:
-- AM: online tutorials
-- AM: lecture
-- PM: pair programming
-- PM: lecture
+- Daily schedule
 
 Wednesday:
-- AM: online tutorials
-- AM: lecture
-- PM: pair programming
-- PM: lecture
+- Daily schedule
 - PM: speaker of the week
 
 Thursday:
@@ -29,22 +30,27 @@ Thursday:
 - AM: plenary discussion
 - AM: online tutorials
 - PM: pair programming
-- PM: decide on challenge
 - PM: lecture
+- PM: decide on challenge
 
 Friday:
-- AM: online tutorials
-- AM: lecture
-- PM: pair programming
-- PM: lecture
+- Daily schedule
 
 ### Group projects
 
-During the four weeks we work on a number of collaborative projects.
+During the four weeks we work on a number of collaborative projects/challenges.
 
-+ Groups of max 5 people
-+ Group divides tasks for individuals or pairs to work on
-+ Each week groups present prototype widgets
++ In week 1, pair assignments
++ From week 2, projects in groups of max 5 people
+  + Weekly challenges to implement a prototype widget
+  + Group divides tasks for individuals or pairs to work on
++ Each week groups present:
+  + Weekly plan on Monday morning
+  + Weekly challenge results on Thursday
++ We finish the weekly challenges and start the next challenge on Thursday with a plenary discussion
+  + What technological hurdles were overcome, which remain?
+  + What is the humanities component of the challenge?
+
 
 ## Content Schedule
 
@@ -56,29 +62,26 @@ Day 1 - Coding and Humanities
 - Presentation of open government data
 
 Day 2 - Fundamentals
-- Tutorial: Git
-- Assignment: fork projec from GitHub, edit and push
+- Tutorial: Git, Gist
+- Assignment: fork project from GitHub, edit and push
 - Lecture: Collaboration, projects and pair programming
 - Tutorial: HTML, CSS
 - Lecture: Documents, objects and data
 - Assignment: make and style own page
 
 Day 3 - Lost & Found
-- Tutorial: JavaScript
-- Assignment: add interaction
-- Lecture: Performative language / JavaScript
+- Tutorial: Polymer
+- Assignment: Making relevant elements (prerequisite: install node.js)
+- Lecture: Polymer, web components, widgets
 - Tutorial: Testing
 - Assignment: Fixing errors in existing code
 - Lecture: Testing, Searching for solutions / Stack overflow
 - Speaker: ...
 
 Day 4 - 
-- Tutorial: jQuery
-- Assignment: add table with jQuery
-- Lecture: Manipulating elements / jQuery
-- Tutorial: Node.js
-- Assignment: install node, start server, handle form submissions
-- Lecture: Server-side, client-side
+- Tutorial: JavaScript
+- Assignment: add interaction
+- Lecture: Performative language / JavaScript
 - Group: Deciding on projects
 - Group: presenting project proposals
 
@@ -86,9 +89,6 @@ Day 5 - Composition
 - Tutorial: Refactoring
 - Assignment: Cleaning up own/each other's code
 - Lecture: Refactoring
-- Tutorial: Polymer
-- Assignment: Making relevant elements
-- Lecture: Polymer, web components, widgets
 - Reading: Ben Fry - The seven stages of visualizing data
  
 
@@ -105,6 +105,9 @@ Day 1 - Dealing with Sources
 
 Day 2 - Transformations
 - Group: presenting weekly plans
+- Tutorial: jQuery
+- Assignment: add table with jQuery
+- Lecture: Manipulating elements / jQuery
 - Tutorial: ...
 - Lecture: Data manipulation, data structures
 - Lecture: functions and scope
@@ -115,6 +118,13 @@ Day 3 - Storing and updataing
 - speaker: Federico Bonelli (Trasformatorio)
 
 Day 4 - Scope
+
+
+### Scrap Heap
+
+- Tutorial: Node.js
+- Assignment: install node, start server, handle form submissions
+- Lecture: Server-side, client-side
 
 Day 5 - Presenting at DH Benelux
 - Live streaming presentation of pilot at DH Benelux in The Hague
