@@ -9,33 +9,32 @@ Monday:
 - AM: lecture
 - PM: pair programming
 - PM: lecture
-- PM: decide on challenge
+- PM: groups present week plans
 
 Tuesday:
 - AM: online tutorials
 - AM: lecture
 - PM: pair programming
 - PM: lecture
-- PM: groups present week plans
 
 Wednesday:
 - AM: online tutorials
 - AM: lecture
 - PM: pair programming
 - PM: lecture
-- PM: decide on challenge
 - PM: speaker of the week
 
 Thursday:
-- AM: online tutorials
-- AM: lecture
-- PM: pair programming
-- PM: lecture
-
-Friday:
 - AM: groups present results
 - AM: plenary discussion
 - AM: online tutorials
+- PM: pair programming
+- PM: decide on challenge
+- PM: lecture
+
+Friday:
+- AM: online tutorials
+- AM: lecture
 - PM: pair programming
 - PM: lecture
 
@@ -49,46 +48,60 @@ During the four weeks we work on a number of collaborative projects.
 
 ## Content Schedule
 
-### Week 1 - Elements
+### Week 1 - Elements of Coding
 
 Day 1 - Coding and Humanities
 - Welcome, goals, format, expectations
+- Presentation of Weyeser
 - Presentation of open government data
-- Presentation of Weyeser, Tulp Interactive
-- Tutorial: Git
-- Tutorial: HTML, CSS
-- Group: Exploring open government data
-- Group: Conceptualising missing data/perspectives
 
 Day 2 - Fundamentals
-- Lecture: Documents, objects and data
+- Tutorial: Git
+- Assignment: fork projec from GitHub, edit and push
 - Lecture: Collaboration, projects and pair programming
-- Tutorial: jQuery
-- Group: Deciding on projects
-- Group: presenting project proposals
+- Tutorial: HTML, CSS
+- Lecture: Documents, objects and data
+- Assignment: make and style own page
 
 Day 3 - Lost & Found
 - Tutorial: JavaScript
-- Lecture: Testing
-- Lecture: Searching for solutions, Stack overflow
+- Assignment: add interaction
+- Lecture: Performative language / JavaScript
+- Tutorial: Testing
+- Assignment: Fixing errors in existing code
+- Lecture: Testing, Searching for solutions / Stack overflow
 - Speaker: ...
 
-Day 4 - Composition
-- Lecture: Prototyping
-- Lecture: Polymer, web components, widgets
+Day 4 - 
+- Tutorial: jQuery
+- Assignment: add table with jQuery
+- Lecture: Manipulating elements / jQuery
+- Tutorial: Node.js
+- Assignment: install node, start server, handle form submissions
+- Lecture: Server-side, client-side
+- Group: Deciding on projects
+- Group: presenting project proposals
 
-Day 5 - Presentation
-- Group: present results, prototypes
+Day 5 - Composition
+- Tutorial: Refactoring
+- Assignment: Cleaning up own/each other's code
 - Lecture: Refactoring
-- Cleaning up code
+- Tutorial: Polymer
+- Assignment: Making relevant elements
+- Lecture: Polymer, web components, widgets
+- Reading: Ben Fry - The seven stages of visualizing data
  
 
 ### Week 2 - Transformations
 
 Day 1 - Dealing with Sources
-- Tutorial: APIs
+- Tutorial: Data types
+- Lecture: Data formats, JSON
+- Tutorial: APIs, CORS
 - Lecture: REST and APIs, 
-- Lecture: data formats, JSON
+- Presentation Tulp Interactive
+- Group: Exploring open government data
+- Group: Conceptualising missing data/perspectives
 
 Day 2 - Transformations
 - Group: presenting weekly plans
@@ -99,7 +112,7 @@ Day 2 - Transformations
 Day 3 - Storing and updataing
 - Lecture: Storing data
 - Tutorial: Firebase API
-- speaker: ...
+- speaker: Federico Bonelli (Trasformatorio)
 
 Day 4 - Scope
 
@@ -112,13 +125,14 @@ Day 1 - Exploring through Visualisations
 - Tutorial: d3
 - Lecture: Visuallisation (JW Tulp?)
 - Lecture: d3
+- Assignment: bar charts
 - Group: Exploring data
 
 Day 2 - Telling stories with data
 - Presenting data through visualisations
 
 Day 3 - 
-- speaker: ...
+- speaker: Ashley Williams (Bocoup, Wesleyan University)
 - ...
 
 Day 4 - ...
