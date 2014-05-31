@@ -56,12 +56,14 @@ During the four weeks we work on a number of collaborative projects/challenges.
 
 ### Week 1 - Elements of Coding
 
-Day 1 - Coding and Humanities
+Day 1 - 2 June
+Theme: Coding and Humanities
 - Welcome, goals, format, expectations
 - Presentation of Weyeser
 - Presentation of open government data
 
-Day 2 - Fundamentals
+Day 2 - 3 June
+Theme: Fundamentals
 - Tutorial: Git, Gist
 - Assignment: fork project from GitHub, edit and push
 - Lecture: Collaboration, projects and pair programming
@@ -69,7 +71,8 @@ Day 2 - Fundamentals
 - Lecture: Documents, objects and data
 - Assignment: make and style own page
 
-Day 3 - Lost & Found
+Day 3 - 4 June
+Theme: Composition
 - Tutorial: Polymer
 - Assignment: Making relevant elements (prerequisite: install node.js)
 - Lecture: Polymer, web components, widgets
@@ -78,14 +81,19 @@ Day 3 - Lost & Found
 - Lecture: Testing, Searching for solutions / Stack overflow
 - Speaker: ...
 
-Day 4 - 
+Day 4 - 5 June
+Theme: Performativity
 - Tutorial: JavaScript
 - Assignment: add interaction
 - Lecture: Performative language / JavaScript
 - Group: Deciding on projects
 - Group: presenting project proposals
 
-Day 5 - Composition
+Day 5 - 6 June
+Theme: Modularity
+- Tutorial: Functions
+- Assignment: Structuring code
+- Lecture: Modularity, scope and functions
 - Tutorial: Refactoring
 - Assignment: Cleaning up own/each other's code
 - Lecture: Refactoring
@@ -94,7 +102,11 @@ Day 5 - Composition
 
 ### Week 2 - Transformations
 
-Day 1 - Dealing with Sources
+Day 1 - 9 June
+Theme: Pinksteren
+
+Day 2 - 10 June
+Theme: Dealing with Sources
 - Tutorial: Data types
 - Lecture: Data formats, JSON
 - Tutorial: APIs, CORS
@@ -103,7 +115,8 @@ Day 1 - Dealing with Sources
 - Group: Exploring open government data
 - Group: Conceptualising missing data/perspectives
 
-Day 2 - Transformations
+Day 3 - 11 June 
+Theme: Transformations
 - Group: presenting weekly plans
 - Tutorial: jQuery
 - Assignment: add table with jQuery
@@ -112,57 +125,65 @@ Day 2 - Transformations
 - Lecture: Data manipulation, data structures
 - Lecture: functions and scope
 
-Day 3 - Storing and updataing
+Day 4 - 12 June
+Theme: Storing and updataing
 - Lecture: Storing data
 - Tutorial: Firebase API
 - speaker: Federico Bonelli (Trasformatorio)
 
-Day 4 - Scope
-
-
-### Scrap Heap
-
-- Tutorial: Node.js
-- Assignment: install node, start server, handle form submissions
-- Lecture: Server-side, client-side
-
-Day 5 - Presenting at DH Benelux
+Day 5 - 13 June 
+Theme: DHBenelux
+- Present results as livestream to DH Benelux conference
 - Live streaming presentation of pilot at DH Benelux in The Hague
+
+
 
 ### Week 3 - Visualisation
 
-Day 1 - Exploring through Visualisations
+Day 1 - 16 June
+Theme: Exploring through Visualisations
 - Tutorial: d3
 - Lecture: Visuallisation (JW Tulp?)
 - Lecture: d3
 - Assignment: bar charts
 - Group: Exploring data
 
-Day 2 - Telling stories with data
+Day 2 - 17 June
+Theme: Telling stories with data
 - Presenting data through visualisations
 
-Day 3 - 
+Day 3 - 18 June 
 - speaker: Ashley Williams (Bocoup, Wesleyan University)
 - ...
 
-Day 4 - ...
+Day 4 - 19 June
 - ...
 
-Day 5 - Presenting
+Day 5 - 20 June
 - Group: present results
 
 ### Week 4 - Finalising
 
-Day 1 - Building and refining
+Day 1 - 23 June
+Theme: Building and refining
 
-Day 2 - Building and refining
+Day 2 - 24 June
+Theme: Building and refining
 
-Day 3 - Building and refining
+Day 3 - 25 June
+Theme: Building and refining
 
-Day 4 - Presentations
-- Students present projects (need a cool location: Eye museum, Royal Palace, top of Okura)
-- Drinks and Pizza (or champagne, oysters and caviar if in fancy location)
+Day 4 - 26 June
+Theme: Building and refining
 
-Day 5 - 
-- Sleep
+Day 5 - 27 June 
+Theme: Presentations
+- Students present projects 
+- Drinks and Pizza 
+
+### Scrap Heap
+
+- Tutorial: Node.js
+- Assignment: install node, start server, handle form submissions
+- Lecture: Server-side, client-side
 
