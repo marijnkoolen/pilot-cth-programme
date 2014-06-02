@@ -59,7 +59,6 @@ During the four weeks we work on a number of collaborative projects/challenges.
 Day 1 - 2 June
 Theme: Coding and Humanities
 - Welcome, goals, format, expectations
-- Presentation of Weyeser
 - Presentation of open government data
 
 Day 2 - 3 June
@@ -72,7 +71,7 @@ Theme: Fundamentals
 - Assignment: make and style own page
 
 Day 3 - 4 June
-Theme: Composition
+Theme: Components: HTML Lego
 - Tutorial: Polymer
 - Assignment: Making relevant elements (prerequisite: install node.js)
 - Lecture: Polymer, web components, widgets
@@ -86,6 +85,7 @@ Theme: Performativity
 - Tutorial: JavaScript
 - Assignment: add interaction
 - Lecture: Performative language / JavaScript
+- Presentation Tulp Interactive
 - Group: Deciding on projects
 - Group: presenting project proposals
 
@@ -107,28 +107,30 @@ Theme: Pinksteren
 
 Day 2 - 10 June
 Theme: Dealing with Sources
-- Tutorial: Data types
+- Tutorial: Data types, objects
+- Assignment: Metadata as object
 - Lecture: Data formats, JSON
 - Tutorial: APIs, CORS
+- Assignment: Querying NY Times API
 - Lecture: REST and APIs, 
-- Presentation Tulp Interactive
+- Presentation of Weyeser
 - Group: Exploring open government data
 - Group: Conceptualising missing data/perspectives
 
 Day 3 - 11 June 
-Theme: Transformations
+Theme: Storing and updataing
 - Group: presenting weekly plans
-- Tutorial: jQuery
-- Assignment: add table with jQuery
-- Lecture: Manipulating elements / jQuery
+- Tutorial: Firebase API
+- Assignment: Building datasets in Firebase
+- Lecture: Storing data
 - Tutorial: ...
 - Lecture: Data manipulation, data structures
-- Lecture: functions and scope
 
 Day 4 - 12 June
-Theme: Storing and updataing
-- Lecture: Storing data
-- Tutorial: Firebase API
+Theme: Transformations
+- Tutorial: jQuery
+- Assignment: adding and hiding elements with jQuery
+- Lecture: Manipulating elements / jQuery
 - speaker: Federico Bonelli (Trasformatorio)
 
 Day 5 - 13 June 
