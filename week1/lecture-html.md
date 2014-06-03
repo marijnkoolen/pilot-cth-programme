@@ -17,11 +17,12 @@
 + spot the technology bias
 + semantic markup vs. stylistic markup
 + structure, style, behaviour
++ developer console
 + best practices
 
 ### Assignment
 
-+ Make an HTML element about yourself
++ Make an HTML element based on the post-its you got this morning
 + Include: 
   + an image,
   + a list of tags and
