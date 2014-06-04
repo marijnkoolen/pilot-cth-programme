@@ -63,29 +63,33 @@ Theme: Coding and Humanities
 
 Day 2 - 3 June
 Theme: Fundamentals
-- Tutorial: Git, Gist
-- Assignment: fork project from GitHub, edit and push
-- Lecture: Collaboration, projects and pair programming
-- Tutorial: HTML, CSS
-- Lecture: Documents, objects and data
-- Assignment: make and style own page
+- Lecture: Docuemnts and structure
+- Assignment: HTML
+- Lecture: Structure and layout
+- Assignment: make and style own page (CSS)
 
 Day 3 - 4 June
 Theme: Components: HTML Lego
+- Assignment: sketch humanities themed web page
+- Assignment: install node.js
+- Assignment: create structure and styling for web page
+- Tutorial: Git, Gist
+- Assignment: fork project from GitHub, edit and push
+- Lecture: Collaboration, projects and pair programming
 - Tutorial: Polymer
-- Assignment: Making relevant elements (prerequisite: install node.js)
+- Assignment: Making web page as element 
 - Lecture: Polymer, web components, widgets
-- Tutorial: Testing
-- Assignment: Fixing errors in existing code
-- Lecture: Testing, Searching for solutions / Stack overflow
 - Speaker: ...
 
 Day 4 - 5 June
 Theme: Performativity
+- Presentation Tulp Interactive
 - Tutorial: JavaScript
 - Assignment: add interaction
 - Lecture: Performative language / JavaScript
-- Presentation Tulp Interactive
+- Tutorial: Testing
+- Assignment: Fixing errors in existing code
+- Lecture: Testing, Searching for solutions / Stack overflow
 - Group: Deciding on projects
 - Group: presenting project proposals
 

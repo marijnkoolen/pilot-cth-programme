@@ -30,6 +30,15 @@ output: welcome.html
 
 --
 
+### Storing materials
+
++ Storing data on GitHub
++ Facilitates collaborative projects
++ Threshold at first, Godsend once accustomed
++ Portfolio
+
+--
+
 ### Data sets
 
 + [data.overheid.nl](https://data.overheid.nl/)
@@ -103,15 +112,6 @@ output: welcome.html
   + Groups decide on next challenge
 + Friday: 
   + Daily schedule
-
---
-
-### Storing materials
-
-+ Storing data on GitHub
-+ Facilitates collaborative projects
-+ Threshold at first, Godsend once accustomed
-+ Portfolio
 
 --
 
