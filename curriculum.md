@@ -64,44 +64,36 @@ Theme: Coding and Humanities
 Day 2 - 3 June
 Theme: Fundamentals
 - Lecture: Docuemnts and structure
+- Lecture: Collaboration, projects and pair programming
 - Assignment: HTML
 - Lecture: Structure and layout
 - Assignment: make and style own page (CSS)
 
 Day 3 - 4 June
 Theme: Components: HTML Lego
-- Assignment: sketch humanities themed web page
+- Assignment: sketch humanities research topic as web page on poster
 - Assignment: install node.js
-- Assignment: create structure and styling for web page
+- Assignment: create structure and styling for poster web page
 - Tutorial: Git, Gist
-- Assignment: fork project from GitHub, edit and push
-- Lecture: Collaboration, projects and pair programming
-- Tutorial: Polymer
-- Assignment: Making web page as element 
 - Lecture: Polymer, web components, widgets
 - Speaker: ...
 
 Day 4 - 5 June
 Theme: Performativity
 - Presentation Tulp Interactive
-- Tutorial: JavaScript
-- Assignment: add interaction
+- Assignment: Install Git and GitHub (Windows users), add, commit, pull and push
+- Assignment: Making topical poster element as polymer element
 - Lecture: Performative language / JavaScript
-- Tutorial: Testing
-- Assignment: Fixing errors in existing code
-- Lecture: Testing, Searching for solutions / Stack overflow
-- Group: Deciding on projects
-- Group: presenting project proposals
+- Assignment: add interaction
 
 Day 5 - 6 June
 Theme: Modularity
-- Tutorial: Functions
-- Assignment: Structuring code
+- Lecture: Testing, Searching for solutions / Stack overflow
+- Assignment: Fixing errors in existing code
 - Lecture: Modularity, scope and functions
-- Tutorial: Refactoring
-- Assignment: Cleaning up own/each other's code
+- Assignment: Structuring code
 - Lecture: Refactoring
-- Reading: Ben Fry - The seven stages of visualizing data
+- Assignment: Cleaning up own/each other's code
  
 
 ### Week 2 - Transformations
@@ -120,6 +112,9 @@ Theme: Dealing with Sources
 - Presentation of Weyeser
 - Group: Exploring open government data
 - Group: Conceptualising missing data/perspectives
+- Group: Deciding on projects
+- Group: presenting project proposals
+- Reading: Ben Fry - The seven stages of visualizing data
 
 Day 3 - 11 June 
 Theme: Storing and updataing
